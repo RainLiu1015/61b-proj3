@@ -2,7 +2,7 @@
 
 **Partner 1:** Rain Liu
 
-**Partner 2:** Yuxin Lin
+**Partner 2:** Ruqi Lin
 
 ## Classes and Data Structures
 
